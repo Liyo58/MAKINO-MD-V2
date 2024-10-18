@@ -16,9 +16,9 @@ global.autoviewstatus = false;                 //make true to view statuses
 global.anticall = false
 
 
-global.SESSION_ID = process.env.SESSION_ID || ""
-global.Owner = ["2349151864541"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-6oVigKiC#PT3i8PiwI6M7TKcGWedg-3be6x4KHcbmGLA5tDuduMk"
+global.Owner = ["94779702531"]; //like 94779702531 
+global.OwnerName =  "꧁࿐༵༆༒𝑳𝒊𝒚𝒐༒𝑺𝒕𝒓𝒊𝒎𝒊𝒏𝒈༒༆࿐༵ ꧂";
 global.BotName = "♱MAKINO-MD-V2♱♡⃤";
 global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
 global.author = "TAIRA MAKINO";                               //Do not change.
